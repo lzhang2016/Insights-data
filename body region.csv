@@ -1,4 +1,4 @@
-﻿Body region,Polygon id,Coor x,Coor y,Coor x1,Claim count,Serious rate
+﻿Body_region,Polygon_id,Coor_x,Coor_y,Coor_x1,Claim_count,Serious_rate
 Neck,Neck,182,102,516,157,3.82
 Face,Face,182,58,-150,1329,0.75
 Head,Head,182,15,516,1881,9.14
