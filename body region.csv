@@ -1,0 +1,10 @@
+﻿Body region,Polygon id,Coor x,Coor y,Coor x1,Claim count,Serious rate
+Neck,Neck,182,102,516,157,3.82
+Face,Face,182,58,-150,1329,0.75
+Head,Head,182,15,516,1881,9.14
+Abdomen,Abdomen,182,275,516,1994,3.96
+Skin and others,,107,598,-150,3044,0.03
+Thorax,Thorax,152,172,,4244,11.50
+Lower extremity,Lower_extremity,221,454,516,5544,5.64
+Upper extremity,Upper_extremity,,,-150,7897,0.37
+Spine,Spine,182,220,516,16279,1.31
